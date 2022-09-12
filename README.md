@@ -1,2 +1,2 @@
 # FinalProject
-THis is my first project
+THis is my first project repository
